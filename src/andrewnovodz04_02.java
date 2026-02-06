@@ -43,7 +43,12 @@ public class andrewnovodz04_02 {
         int y = ++x;
         третий способ:
         int x = 7;
-        int y = x+1;*/
+        int y = x+1;
+        четвертый способ:
+        int x = 7;
+        int y;
+        x++;
+        y=x;*/
 
         System.out.println("задача 2:"+
                 "\n" + "x равен:" + x +
